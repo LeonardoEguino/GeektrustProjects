@@ -1,0 +1,37 @@
+[
+  {
+    "track_type": "vip",
+    "vehicles": [
+      {
+        "vehicle_type": "car",
+        "max_vehicles": 1,
+        "fee_per_hour": 250
+      },
+      {
+        "vehicle_type": "suv",
+        "max_vehicles": 1,
+        "fee_per_hour": 300
+      }
+    ]
+  },
+  {
+    "track_type": "regular",
+    "vehicles": [
+      {
+        "vehicle_type": "car",
+        "max_vehicles": 2,
+        "fee_per_hour": 120
+      },
+      {
+        "vehicle_type": "suv",
+        "max_vehicles": 2,
+        "fee_per_hour": 200
+      },
+      {
+        "vehicle_type": "bike",
+        "max_vehicles": 4,
+        "fee_per_hour": 60
+      }
+    ]
+  }
+]
